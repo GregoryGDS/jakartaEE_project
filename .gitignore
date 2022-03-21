@@ -1,0 +1,9 @@
+/.idea
+*.iml
+.DS_Store
+.project
+.metadata
+bin/
+tmp/
+out
+target
